@@ -2,6 +2,10 @@
 *.o
 *.a
 *.so
+examples/client/client
+examples/server/server
+examples/simple/simple
+examples/node/node
 
 # Folders
 _obj
